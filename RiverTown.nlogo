@@ -549,24 +549,21 @@ This is an engineering water management exercise that allows the student to expl
 
 There is a river on the far left hand side whose level is controlled by a slider. A dig/mound tool allows the user to remove soil to (dig) create a basin, trench, ditch, or other waterway; or to (mound) create dikes or river banks. 
 
-
 ## HOW TO USE IT
 
-press setup then go
+press `setup` then `go`
 slowly increase the river level using the slider and observe
 
-press setup again
-switch mouse-tool? on
-select dig or mound
+press `setup` again
+switch `mouse-tool?` on
+select `dig` or `mound`
 use the mouse to dig or mound
 slowly increase the river level using the slider and observe
 
-
 ## THINGS TO NOTICE
 
-headward erosion threatens the orfanage near the cliff
+headward erosion threatens the orphanage near the cliff
 soil deposits are shown in red
-
 
 ## THINGS TO TRY
 
@@ -574,7 +571,7 @@ Try to prevent flooding of the town headward erosion while irrigating the crops
 
 ## EXTENDING THE MODEL
 
-Crops could chage depending on water conditions.
+Crops could change depending on water conditions.
 Houses and orphanage could respond to flooding.
 
 ## CREDITS AND REFERENCES
