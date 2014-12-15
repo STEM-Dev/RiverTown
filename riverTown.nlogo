@@ -6,8 +6,7 @@ globals [
   total-init-soil
   dig-mound-mag   ;; controls digging or mounding by mouse action
   rise-over-run
-  mound-count
-  dig-count
+  mound-count dig-count
 ]
 
 patches-own [
