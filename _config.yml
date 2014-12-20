@@ -1,7 +1,7 @@
-modelname   : Model-page-template
+modelname   : RiverTown
 modelcomment: >
     Template for model pages. 
-baseurl     : /Model-page-template
+baseurl     : /RiverTown
 accountname : VicCastillo
 preurl      : https://github.com/VicCastillo
 #
