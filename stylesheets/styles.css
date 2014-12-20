@@ -1,3 +1,4 @@
+/* Modified VMC */
 @font-face {
   font-family: 'OpenSansLight';
   src: url("../fonts/OpenSans-Light-webfont.eot");
@@ -622,18 +623,38 @@ blockquote {
   font-style: italic;
 }
 
-code {
+/* no used at this time VMC */
+inbutton{
   font-family: "Lucida Sans", Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
-  color: #efefef;
+  color: #000000;
+  background: #cce1e3;
   font-size: 13px;
-  margin: 0 4px;
-  padding: 4px 6px;
+  font-weight: bold;
+  margin: 0 2px;
+  padding: 2px 2px;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   -o-border-radius: 2px;
   -ms-border-radius: 2px;
   -khtml-border-radius: 2px;
   border-radius: 2px;
+  border: outset 2px #d9d3e0;
+}
+
+code {
+  font-family: "Lucida Sans", Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  color: white;
+  background: #191919;
+  font-size: 13px;
+  margin: 0 2px;
+  padding: 2px 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -o-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -khtml-border-radius: 2px;
+  border-radius: 2px;
+  border: solid 1px white;
 }
 
 pre {
@@ -775,9 +796,10 @@ dt {
   margin-left: 6px;
 }
 #header nav li.title {
+  font-weight: bold;
   float: right;
   margin-right: 10px;
-  font-size: 11px;
+  font-size: 24px;
 }
 
 section {

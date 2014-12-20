@@ -1,0 +1,13 @@
+modelname   : Model-page-template
+modelcomment: >
+    Template for model pages. 
+baseurl     : /Model-page-template
+accountname : VicCastillo
+preurl      : https://github.com/VicCastillo
+#
+gems:
+  - jekyll-sitemap
+markdown: redcarpet
+exclude:  ['NIL']
+encoding: UTF-8
+
