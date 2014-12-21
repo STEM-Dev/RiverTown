@@ -29,10 +29,7 @@ Houses and orphanage could respond to flooding.
 
 ## CREDITS AND REFERENCES
 
-RiverTown model
-John Keller and David Mitchell, 
-Center for Excellence in STEM Education
-California Polytech, San Luis Obispo, Ca
+The RiverTown model was developed with the creative juices of  John Keller and David Mitchell, Center for Excellence in STEM Education California Polytech, San Luis Obispo, Ca
 
 David Mitchell, Vic Castillo, and John Keller, Saving Rivertown: Using Computer Simulations in an Earth Science Engineering Design Project for Pre-Service Teachers, 2015 ASEE Annual Conference and Exposition, Seattle, Wa.
 
