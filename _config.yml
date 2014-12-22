@@ -2,8 +2,8 @@ modelname   : RiverTown
 modelcomment: >
     NetLogo Model used as an engineering water management exercise
 baseurl     : /RiverTown
-accountname : VicCastillo
-preurl      : https://github.com/VicCastillo
+accountname : STEM-Dev
+preurl      : https://github.com/STEM-Dev
 #
 gems:
   - jekyll-sitemap
