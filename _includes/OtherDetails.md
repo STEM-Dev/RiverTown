@@ -1,38 +1,41 @@
 ## HOW IT WORKS
 
-(what rules the agents use to create the overall behavior of the model)
+There is a river on the far left hand side whose level is controlled by a slider. A dig/mound tool allows the user to remove soil to (dig) create a basin, trench, ditch, or other waterway; or to (mound) create dikes or river banks. 
 
 ## HOW TO USE IT
 
-(how to use the model, including a description of each of the items in the Interface tab)
+press `setup` then `go`
+slowly increase the river level using the slider and observe
+
+press `setup` again
+switch `mouse-tool?` on
+select `dig` or `mound`
+use the mouse to dig or mound
+slowly increase the river level using the slider and observe
 
 ## THINGS TO NOTICE
 
-(suggested things for the user to notice while running the model)
+headward erosion threatens the orphanage near the cliff
+soil deposits are shown in red
 
 ## THINGS TO TRY
 
-(suggested things for the user to try to do (move sliders, switches, etc.) with the model)
+Try to prevent flooding of the town headward erosion while irrigating the crops
 
 ## EXTENDING THE MODEL
 
-(suggested things to add or change in the Code tab to make the model more complicated, detailed, accurate, etc.)
-
-## NETLOGO FEATURES
-
-(interesting or unusual features of NetLogo that the model uses, particularly in the Code tab; or where workarounds were needed for missing features)
-
-## RELATED MODELS
-
-(models in the NetLogo Models Library and elsewhere which are of related interest)
+Crops could change depending on water conditions.
+Houses and orphanage could respond to flooding.
 
 ## CREDITS AND REFERENCES
 
-(a reference to the model's URL on the web if it has one, as well as any other necessary credits, citations, and links)
+The RiverTown model was developed with the creative juices of  John Keller and David Mitchell, Center for Excellence in STEM Education California Polytech, San Luis Obispo, Ca
+
+David Mitchell, Vic Castillo, and John Keller, Saving Rivertown: Using Computer Simulations in an Earth Science Engineering Design Project for Pre-Service Teachers, 2015 ASEE Annual Conference and Exposition, Seattle, Wa.
 
 ## LICENSE
 
-ModelName Model. CopyRight 2014 Vic Castillo
+RiverTown Model. Copyright 2014 Vic Castillo
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
@@ -40,6 +43,4 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 ## REPOSITORY
 
-https://github.com/VicCastillo/LightSourceAndShadow
-
-
+https://github.com/VicCastillo/RiverTown
