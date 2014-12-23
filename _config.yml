@@ -1,7 +1,8 @@
 modelname   : RiverTown
 modelcomment: >
-    NetLogo Model used as an engineering water management exercise
+    Template for model pages. 
 baseurl     : /RiverTown
+devname     : VicCastillo 
 accountname : STEM-Dev
 preurl      : https://github.com/STEM-Dev
 #
